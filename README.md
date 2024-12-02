@@ -18,6 +18,6 @@ Download and install [Nodejs](https://nodejs.org/en)
 4. Select React
 5. Select Javascript
 6. Run
-   - cd (project name)
+   - cd [your project name]
    - npm install
    - npm run dev
